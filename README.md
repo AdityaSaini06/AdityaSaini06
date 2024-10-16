@@ -50,8 +50,6 @@ I'm a **Web Developer** who loves crafting modern, scalable, and efficient web a
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aditya-saini-603476256/)  
 - **GitHub:** [Explore my repos](https://github.com/AdityaSaini06)
 
-![Handshake GIF](https://media.giphy.com/media/l2QDM9Jnim1YVILXa/giphy.gif)
-
 ---
 
 Thanks for stopping by! 😊 Feel free to reach out to me for collaboration, coding discussions, or just to say hi!
